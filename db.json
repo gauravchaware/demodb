@@ -1,0 +1,26 @@
+{
+  "themedetails": [
+    {   
+        "id": 1, 
+        "domain": "multithemeone.netlify.app", 
+        "details": {
+        "name": "one",
+        "colors": {
+                "background": "black"
+            }
+        
+        }
+    },
+    {   
+        "id": 2, 
+        "domain": "multithemetwo.netlify.app", 
+        "details": {
+        "name": "two",
+        "colors": {
+                "background": "green"
+            }
+        
+        }
+    }
+  ]
+}
